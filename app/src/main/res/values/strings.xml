@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Медиа-плейер</string>
+    <string name="textOut">Название мелодии</string>
+    <string name="btnResume">ВОСПРОИЗВЕДЕНИЕ</string>
+    <string name="btnPause">ПАУЗА</string>
+    <string name="btnStop">СТОП</string>
+    <string name="btnBack">НАЗАД</string>
+    <string name="btnForward">ВПЕРЁД</string>
+    <string name="textSwitch">ПОВТОР</string>
+    <string name="btnStream">РАДИО</string>
+    <string name="btnRAW">ТЕЛЕФОН</string>
+    <string name="btnSD">SD-карта</string>
+    <string name="textView">ИСТОЧНИК</string>
+</resources>
